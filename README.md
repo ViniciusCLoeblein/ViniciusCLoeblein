@@ -18,7 +18,7 @@ Overall, I am a dedicated person, passionate about technology and always strivin
 ### Backend
 
 <div text-align="justify">
-<img src="https://img.shields.io/badge/node.js-20232A?style=for-the-badge&logo=node.js&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/node.js-20232A?style=for-the-badge&logo=node.js&logoColor=68A063" />
 <img src="https://img.shields.io/badge/NestJs-20232A?style=for-the-badge&logo=nestjs&logoColor=EA2845" />
 <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=Python&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/FastAPI-20232A?style=for-the-badge&logo=fastapi&logoColor=009485" />
