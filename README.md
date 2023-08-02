@@ -52,7 +52,7 @@ Overall, I am a dedicated person, passionate about technology and always strivin
 <img src="https://img.shields.io/badge/postgres-20232A?style=for-the-badge&logo=postgresql&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/MongoDb-20232A?style=for-the-badge&logo=mongodb&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/MySql-20232A?style=for-the-badge&logo=mysql&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/oracle-20232A?style=for-the-badge&logo=oracle&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/oracle-20232A?style=for-the-badge&logo=oracle&logoColor=c4361f" />
 
 </div>
 
