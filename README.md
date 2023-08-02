@@ -40,7 +40,7 @@ Overall, I am a dedicated person, passionate about technology and always strivin
 <img src="https://img.shields.io/badge/mui-20232A?style=for-the-badge&logo=mui&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/tailwindcss-20232A?style=for-the-badge&logo=tailwindcss&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/reactnative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
+<img src="https://img.shields.io/badge/expo-20232A?style=for-the-badge&logo=expo&logoColor=61DAFB" />
 
 </div>
 
