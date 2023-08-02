@@ -34,7 +34,7 @@ Overall, I am a dedicated person, passionate about technology and always strivin
 <img src="https://img.shields.io/badge/Ts-20232A?style=for-the-badge&logo=typescript&logoColor=0B375A" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/NextJs-20232A?style=for-the-badge&logo=next.js&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/vuejs-20232A?style=for-the-badge&logo=v&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/vuejs-20232A?style=for-the-badge&logo=v&logoColor=3fb27f" />
 <img src="https://img.shields.io/badge/less-20232A?style=for-the-badge&logo=less&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/reactquery-20232A?style=for-the-badge&logo=reactquery&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/mui-20232A?style=for-the-badge&logo=mui&logoColor=61DAFB" />
