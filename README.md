@@ -55,4 +55,4 @@ Overall, I am a dedicated person, passionate about technology and always strivin
 </center>
 
 
-<img src="./gitDocs/github-user-contribution.svg" />
+<img src="./src/github-user-contribution.svg" />
