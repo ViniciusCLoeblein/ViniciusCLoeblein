@@ -35,6 +35,7 @@ Overall, I am a dedicated person, passionate about technology and always strivin
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/NextJs-20232A?style=for-the-badge&logo=next.js&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/vuejs-20232A?style=for-the-badge&logo=v&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/less-20232A?style=for-the-badge&logo=less&logoColor=61DAFB" />
 
 </div>
 
