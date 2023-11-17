@@ -20,6 +20,7 @@ Overall, I am a dedicated person, passionate about technology and always strivin
 <div text-align="justify">
 <img src="https://img.shields.io/badge/node.js-20232A?style=for-the-badge&logo=node.js&logoColor=68A063" />
 <img src="https://img.shields.io/badge/NestJs-20232A?style=for-the-badge&logo=nestjs&logoColor=EA2845" />
+<img src="https://img.shields.io/badge/TypeOrm-20232A?style=for-the-badge&logo=typeorm&logoColor=EA2845" />
 <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=Python&logoColor=3571a3" />
 <img src="https://img.shields.io/badge/FastAPI-20232A?style=for-the-badge&logo=fastapi&logoColor=009485" />
 </div>
@@ -43,6 +44,7 @@ Overall, I am a dedicated person, passionate about technology and always strivin
 <img src="https://img.shields.io/badge/expo-20232A?style=for-the-badge&logo=expo&logoColor=fff" />
 <img src="https://img.shields.io/badge/realm-20232A?style=for-the-badge&logo=realm&logoColor=f9ebff" />
 <img src="https://img.shields.io/badge/axios-20232A?style=for-the-badge&logo=axios&logoColor=6f4cae" />
+<img src="https://img.shields.io/badge/onesignal-20232A?style=for-the-badge&logo=onesignal&logoColor=6f4cae" />
 
 </div>
 
