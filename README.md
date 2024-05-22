@@ -2,7 +2,7 @@
 
 ### About me
 
-My name is Vinicius, I'm 20 years old. I like programming. During the day, I dedicate my time to working as a programmer, where I use my skills to create innovative solutions. At night, I study Systems Development Analysis at college, aiming to further improve my knowledge.
+My name is Vinicius, I'm 21 years old. I like programming. During the day, I dedicate my time to working as a programmer, where I use my skills to create innovative solutions. At night, I study Systems Development Analysis at college, aiming to further improve my knowledge.
 
 On the weekends, I like to focus on personal growth and I'm always looking to learn something new. I take this time to study new programming languages, explore software development frameworks and solve exciting challenges because I understand that continuous learning is crucial for my professional growth.
 
