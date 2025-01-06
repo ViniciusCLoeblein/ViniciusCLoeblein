@@ -2,13 +2,15 @@
 
 ### About me
 
-My name is Vinicius, I'm 21 years old. I like programming. During the day, I dedicate my time to working as a programmer, where I use my skills to create innovative solutions. At night, I study Systems Development Analysis at college, aiming to further improve my knowledge.
+My name is Vinicius, I am a 21-year-old Full Stack Developer with 3 years of professional experience. Currently, I am studying Systems Development Analysis in college to enhance my knowledge and refine my skills further.
 
-On the weekends, I like to focus on personal growth and I'm always looking to learn something new. I take this time to study new programming languages, explore software development frameworks and solve exciting challenges because I understand that continuous learning is crucial for my professional growth.
+In my role as a developer, I leverage my expertise to design and build effective solutions for complex challenges, focusing on both frontend and backend development. I am passionate about creating innovative and scalable applications that deliver meaningful value.
 
-In addition, I try to balance my leisure time with moments of relaxation. I love playing video games as it not only provides entertainment but also helps me control my mind by solving problems and thinking strategically. Watching movies and TV series is also part of my leisure activities, offering a welcome break and an opportunity to immerse myself in engaging stories.
+In my free time, I enjoy learning new technologies and improving my proficiency in modern frameworks and programming languages. This continuous learning fuels my professional growth and keeps me up to date with the latest trends in software development.
 
-Overall, I am a dedicated person, passionate about technology and always striving to become the best version of myself. I believe that with effort, perseverance and love for what I do, I can achieve great things both in my career and in my personal life. I am excited about the future and the opportunities that lie ahead and I am ready to face challenges with enthusiasm and competence.
+To maintain a balanced life, I dedicate time to hobbies such as playing video games, which sharpen my problem-solving skills and strategic thinking, as well as enjoying movies and TV series for relaxation.
+
+I am committed to professional excellence and personal growth, always striving to be the best version of myself. With dedication and passion for technology, I look forward to contributing to impactful projects and embracing future opportunities with enthusiasm.
 <br>
 
 ## Techs
