@@ -2,9 +2,11 @@
 
 ### About me
 
-My name is Vinicius, I am a 22-year-old Full Stack Developer with 3 years of professional experience. Currently, I am studying Systems Development Analysis in college to enhance my knowledge and refine my skills further.
+My name is Vinicius, I am a 22-year-old Full Stack Developer with 3 years of professional experience at a Pleno level. Currently, I am studying Systems Development Analysis in college to enhance my knowledge and refine my skills further.
 
 In my role as a developer, I leverage my expertise to design and build effective solutions for complex challenges, focusing on both frontend and backend development. I am passionate about creating innovative and scalable applications that deliver meaningful value.
+
+My professional goal is to advance to a Sênior Developer position, continually honing my skills and taking on more complex and impactful projects.
 
 In my free time, I enjoy learning new technologies and improving my proficiency in modern frameworks and programming languages. This continuous learning fuels my professional growth and keeps me up to date with the latest trends in software development.
 
