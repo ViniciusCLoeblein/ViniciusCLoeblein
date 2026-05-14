@@ -14,7 +14,7 @@ In my free time, I enjoy exploring new technologies and improving my knowledge o
 
 To maintain a balanced lifestyle, I also enjoy playing video games, which help strengthen strategic thinking and problem-solving skills, as well as watching movies and TV series to relax and recharge.
 
-I am committed to professional excellence and personal growth, always striving to become the best version of myself. With dedication, curiosity, and passion for technology, I look forward to embracing new opportunities and contributing to meaningful and innovative projects.
+I am committed to professional excellence and personal growth, always striving to become the best version of myself. With dedication, curiosity, and passion for technology.
 
 <br>
 
