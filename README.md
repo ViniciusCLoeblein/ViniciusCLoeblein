@@ -2,17 +2,19 @@
 
 ### About me
 
-My name is Vinicius, I am a 22-year-old Full Stack Developer with 3 years of professional experience at a Pleno level. Currently, I am studying Systems Development Analysis in college to enhance my knowledge and refine my skills further.
+My name is Vinicius, and I am a 23-year-old Tech Lead and Full Stack Developer with 3 years of professional experience in software development. Currently, I am studying Systems Development Analysis in college to further expand my knowledge and continuously refine my technical and leadership skills.
 
-In my role as a developer, I leverage my expertise to design and build effective solutions for complex challenges, focusing on both frontend and backend development. I am passionate about creating innovative and scalable applications that deliver meaningful value.
+In my role, I combine hands-on development expertise with leadership responsibilities, helping guide teams and drive the delivery of effective solutions for complex challenges. I have experience across both frontend and backend development, with a strong focus on building scalable, innovative, and high-quality applications that create meaningful impact.
 
-My professional goal is to advance to a Sênior Developer position, continually honing my skills and taking on more complex and impactful projects.
+As a technology professional, I am passionate about continuous improvement, problem-solving, and fostering collaboration within development teams. I enjoy contributing not only through coding but also by helping define strategies, mentoring team members, and improving development processes.
 
-In my free time, I enjoy learning new technologies and improving my proficiency in modern frameworks and programming languages. This continuous learning fuels my professional growth and keeps me up to date with the latest trends in software development.
+My professional goal is to continue growing as a leader and technology specialist, taking on increasingly complex challenges and contributing to impactful projects that create value for both businesses and users.
 
-To maintain a balanced life, I dedicate time to hobbies such as playing video games, which sharpen my problem-solving skills and strategic thinking, as well as enjoying movies and TV series for relaxation.
+In my free time, I enjoy exploring new technologies and improving my knowledge of modern frameworks and programming languages. Staying up to date with industry trends is something that motivates me and supports my professional evolution.
 
-I am committed to professional excellence and personal growth, always striving to be the best version of myself. With dedication and passion for technology, I look forward to contributing to impactful projects and embracing future opportunities with enthusiasm.
+To maintain a balanced lifestyle, I also enjoy playing video games, which help strengthen strategic thinking and problem-solving skills, as well as watching movies and TV series to relax and recharge.
+
+I am committed to professional excellence and personal growth, always striving to become the best version of myself. With dedication, curiosity, and passion for technology, I look forward to embracing new opportunities and contributing to meaningful and innovative projects.
 <br>
 
 ## Techs
