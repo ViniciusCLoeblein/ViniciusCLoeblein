@@ -2,7 +2,7 @@
 
 ### About me
 
-My name is Vinicius, and I am a 23-year-old Tech Lead and Full Stack Developer with 3 years of professional experience in software development. Currently, I am studying Systems Development Analysis in college to further expand my knowledge and continuously refine my technical and leadership skills.
+My name is Vinicius, and I am a 23-year-old Tech Lead and Full Stack Developer with 4 years of professional experience in software development. Currently, I am studying Systems Development Analysis in college to further expand my knowledge and continuously refine my technical and leadership skills.
 
 In my role, I combine hands-on development expertise with leadership responsibilities, helping guide teams and drive the delivery of effective solutions for complex challenges. I have experience across both frontend and backend development, with a strong focus on building scalable, innovative, and high-quality applications that create meaningful impact.
 
