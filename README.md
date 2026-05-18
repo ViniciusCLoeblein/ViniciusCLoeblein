@@ -25,43 +25,54 @@ I am committed to professional excellence and personal growth, always striving t
 ### Backend
 
 <div text-align="justify">
+
 <img src="https://img.shields.io/badge/node.js-20232A?style=for-the-badge&logo=node.js&logoColor=68A063" />
-<img src="https://img.shields.io/badge/NestJs-20232A?style=for-the-badge&logo=nestjs&logoColor=EA2845" />
-<img src="https://img.shields.io/badge/TypeOrm-20232A?style=for-the-badge&logo=typeorm&logoColor=EA2845" />
-<img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=Python&logoColor=3571a3" />
+<img src="https://img.shields.io/badge/NestJS-20232A?style=for-the-badge&logo=nestjs&logoColor=EA2845" />
+<img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/TypeORM-20232A?style=for-the-badge&logo=typeorm&logoColor=EA2845" />
+<img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3572A5" />
 <img src="https://img.shields.io/badge/FastAPI-20232A?style=for-the-badge&logo=fastapi&logoColor=009485" />
+<img src="https://img.shields.io/badge/WebSocket-20232A?style=for-the-badge&logo=socketdotio&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/OpenTelemetry-20232A?style=for-the-badge&logo=opentelemetry&logoColor=ffffff" />
+
 </div>
 
-### Frontend
+### Frontend & Mobile
 
 <div text-align="justify">
 
-<img src="https://img.shields.io/badge/html5-20232A?style=for-the-badge&logo=html5&logoColor=FF6600" />
-<img src="https://img.shields.io/badge/css3-20232A?style=for-the-badge&logo=css3&logoColor=006bb3" />
-<img src="https://img.shields.io/badge/Js-20232A?style=for-the-badge&logo=Javascript&logoColor=ffff00" />
-<img src="https://img.shields.io/badge/Ts-20232A?style=for-the-badge&logo=typescript&logoColor=0B375A" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/NextJs-20232A?style=for-the-badge&logo=next.js&logoColor=fff" />
-<img src="https://img.shields.io/badge/vuejs-20232A?style=for-the-badge&logo=v&logoColor=3fb27f" />
-<img src="https://img.shields.io/badge/less-20232A?style=for-the-badge&logo=less&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/reactquery-20232A?style=for-the-badge&logo=reactquery&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/mui-20232A?style=for-the-badge&logo=mui&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/tailwindcss-20232A?style=for-the-badge&logo=tailwindcss&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/reactnative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/expo-20232A?style=for-the-badge&logo=expo&logoColor=fff" />
-<img src="https://img.shields.io/badge/realm-20232A?style=for-the-badge&logo=realm&logoColor=f9ebff" />
-<img src="https://img.shields.io/badge/axios-20232A?style=for-the-badge&logo=axios&logoColor=6f4cae" />
-<img src="https://img.shields.io/badge/onesignal-20232A?style=for-the-badge&logo=onesignal&logoColor=6f4cae" />
+<img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-20232A?style=for-the-badge&logo=expo&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/TailwindCSS-20232A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/React_Query-20232A?style=for-the-badge&logo=reactquery&logoColor=FF4154" />
+<img src="https://img.shields.io/badge/MUI-20232A?style=for-the-badge&logo=mui&logoColor=007FFF" />
+<img src="https://img.shields.io/badge/Vue.js-20232A?style=for-the-badge&logo=vuedotjs&logoColor=42B883" />
 
 </div>
 
-### Database
+### Database & Cache
 
 <div text-align="justify">
-<img src="https://img.shields.io/badge/postgres-20232A?style=for-the-badge&logo=postgresql&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/MongoDb-20232A?style=for-the-badge&logo=mongodb&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/MySql-20232A?style=for-the-badge&logo=mysql&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/oracle-20232A?style=for-the-badge&logo=oracle&logoColor=c4361f" />
+
+<img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/Oracle-20232A?style=for-the-badge&logo=oracle&logoColor=C74634" />
+<img src="https://img.shields.io/badge/Redis-20232A?style=for-the-badge&logo=redis&logoColor=DC382D" />
+
+</div>
+
+### DevOps & Observability
+
+<div text-align="justify">
+
+<img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Kubernetes-20232A?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
+<img src="https://img.shields.io/badge/Grafana-20232A?style=for-the-badge&logo=grafana&logoColor=F46800" />
+<img src="https://img.shields.io/badge/Prometheus-20232A?style=for-the-badge&logo=prometheus&logoColor=E6522C" />
+<img src="https://img.shields.io/badge/SigNoz-20232A?style=for-the-badge&logo=signoz&logoColor=ffffff" />
 
 </div>
 
